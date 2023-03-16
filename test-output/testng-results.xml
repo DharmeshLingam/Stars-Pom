@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T10:58:30 EDT" name="Default suite" finished-at="2023-03-15T10:59:24 EDT" duration-ms="53774">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T10:58:30 EDT" name="Default test" finished-at="2023-03-15T10:59:24 EDT" duration-ms="53774">
+      <class name="com.example.AuditLogPageTest">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:30 EDT" name="preCondition" finished-at="2023-03-15T10:58:33 EDT" duration-ms="3315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:33 EDT" name="setUp" finished-at="2023-03-15T10:58:42 EDT" duration-ms="8326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAuditLogPageTitleTest()[pri:1, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:42 EDT" name="verifyAuditLogPageTitleTest" finished-at="2023-03-15T10:58:42 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAuditLogPageTitleTest -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:42 EDT" name="postCondition" finished-at="2023-03-15T10:58:43 EDT" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:43 EDT" name="preCondition" finished-at="2023-03-15T10:58:44 EDT" duration-ms="1747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:44 EDT" name="setUp" finished-at="2023-03-15T10:58:52 EDT" duration-ms="7492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCompaniesPageColumnsTest()[pri:2, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:52 EDT" name="verifyCompaniesPageColumnsTest" finished-at="2023-03-15T10:58:53 EDT" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCompaniesPageColumnsTest -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:53 EDT" name="postCondition" finished-at="2023-03-15T10:58:53 EDT" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:53 EDT" name="preCondition" finished-at="2023-03-15T10:58:54 EDT" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:58:54 EDT" name="setUp" finished-at="2023-03-15T10:59:02 EDT" duration-ms="7531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openAuditlog()[pri:3, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:02 EDT" name="openAuditlog" finished-at="2023-03-15T10:59:03 EDT" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAuditlog -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:03 EDT" name="postCondition" finished-at="2023-03-15T10:59:03 EDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:03 EDT" name="preCondition" finished-at="2023-03-15T10:59:05 EDT" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:05 EDT" name="setUp" finished-at="2023-03-15T10:59:12 EDT" duration-ms="7444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifytoast()[pri:4, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:12 EDT" name="verifytoast" finished-at="2023-03-15T10:59:13 EDT" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytoast -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:13 EDT" name="postCondition" finished-at="2023-03-15T10:59:13 EDT" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:13 EDT" name="preCondition" finished-at="2023-03-15T10:59:15 EDT" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:15 EDT" name="setUp" finished-at="2023-03-15T10:59:22 EDT" duration-ms="7459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifygridcontainsTest()[pri:5, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:22 EDT" name="verifygridcontainsTest" finished-at="2023-03-15T10:59:23 EDT" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygridcontainsTest -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.example.AuditLogPageTest@388ba540]" started-at="2023-03-15T10:59:23 EDT" name="postCondition" finished-at="2023-03-15T10:59:24 EDT" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.example.AuditLogPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
